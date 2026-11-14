@@ -1,0 +1,63 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fff0f5;
+    color: #333;
+}
+
+/* Encabezado */
+header {
+    text-align: center;
+    background-color: #f8b6c8;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    color: #8b3a62;
+}
+
+header p {
+    font-size: 16px;
+}
+
+/* Foto */
+.foto {
+    text-align: center;
+    padding: 20px;
+}
+
+.foto img {
+    width: 300px;
+}
+
+/* Contenido */
+.contenido {
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+
+.contenido h2 {
+    text-align: center;
+    color: #c45a7c;
+}
+
+.contenido h3 {
+    color: #a94468;
+}
+
+.contenido p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    background-color: #f8b6c8;
+    padding: 10px;
+    margin-top: 20px;
+}
